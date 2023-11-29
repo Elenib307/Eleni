@@ -1,0 +1,6 @@
+body{background-color: #ccccff;}
+h1{font-family: Helvetica; font-size-adjust: 40px; color: #ff9999;}
+p{font-family: Garamond; font-size-adjust: 12px; color: #ccffff;}
+img{border-width: 3px; border-style: double; border-color: #66ccff;}
+a{font-family: Garamond; color: #ff9999; font-size: 12px; text-decoration: none;}
+a:hover{color: #66ccff}
